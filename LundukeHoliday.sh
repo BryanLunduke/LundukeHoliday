@@ -218,6 +218,6 @@ then
   exit
  exit
 else
-  echo -e "${White}Possible options for Lunduke's Shell Holiday Decorations: ${Blue}Tree Menorah"
+  echo -e "${White}Possible options for Lunduke's Shell Holiday Decorations are ${Blue}Tree, and Menorah"
   exit
 fi
