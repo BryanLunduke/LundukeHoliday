@@ -3,6 +3,8 @@ Lunduke's Holiday BASH Decorations
 
 A simple Bash script that shows some animated, ASCII holiday decorations in your shell.
 
+Find more details at [The Lunduke Journal](https://lunduke.substack.com/p/animated-ascii-fireworks-in-your).
+
 Currently contains the following animations:
 
 "Menorah"
