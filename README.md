@@ -9,15 +9,19 @@ Currently contains the following animations:
 
 Usage: bash LundukeHoliday.sh Menorah
 
+![](https://raw.githubusercontent.com/BryanLunduke/LundukeHoliday/main/menorah.gif)
+
 "Tree"
 
 Usage: bash LundukeHoliday.sh Tree
+
+![](https://raw.githubusercontent.com/BryanLunduke/LundukeHoliday/main/tree.gif)
 
 "Fireworks"
 
 Usage: bash LundukeHoliday.sh Fireworks
 
-![](https://github.com/BryanLunduke/LundukeHoliday/fireworks.gif)
+![](https://raw.githubusercontent.com/BryanLunduke/LundukeHoliday/main/fireworks.gif)
 
 The animated Christmas tree was based on a modified version of ChristBASHTree which is available here in the Public Domain:
 https://github.com/sergiolepore/ChristBASHTree
