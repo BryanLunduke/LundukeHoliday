@@ -340,6 +340,7 @@ clear
 
 until [ 1 -eq 2 ]
 do
+sleep 1
 clear
 
 pids=
