@@ -17,6 +17,8 @@ Usage: bash LundukeHoliday.sh Tree
 
 Usage: bash LundukeHoliday.sh Fireworks
 
+![](https://github.com/BryanLunduke/LundukeHoliday/fireworks.gif)
+
 The animated Christmas tree was based on a modified version of ChristBASHTree which is available here in the Public Domain:
 https://github.com/sergiolepore/ChristBASHTree
 
